@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
-	int i,j, size,a,b,c=0,duplicate=0;
+	int i,j, size,a,b,c=0,;
 	printf("Enter the size of the array 1: ");
 	scanf("%d", &i);
 	printf("Enter the size of the array 2: ");
@@ -30,3 +30,4 @@ int main(){
 	
 
 }
+
