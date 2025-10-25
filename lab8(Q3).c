@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main(){
+	//assuming that a element does not repeat itself in the same array//
 	int i,j, size,a,b,c=0,;
 	printf("Enter the size of the array 1: ");
 	scanf("%d", &i);
@@ -30,4 +31,5 @@ int main(){
 	
 
 }
+
 
